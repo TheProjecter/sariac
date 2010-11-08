@@ -1,0 +1,25 @@
+#summary Pre-alpha release of Sariac Download Manager
+#labels Featured
+
+= Introduction =
+
+A Pre-alpha Sariac have been released.
+
+
+= Details =
+
+This is a pre-alpha. Many features have not implemented yet. There are also many bugs present. Please test and Give Feedback.
+
+= Feedback =
+
+Please give your feedback in my email or by commenting in this page.
+
+I am asking you to suggest anything from GUI to codebase. 
+
+If you are submitting a bug please include the log file which is situated in *.sariac/log* folder in your home directory.
+
+= Download =
+
+ ==<a href="http://code.google.com/p/sariac/downloads/detail?name=sariac.jar&can=2">Binary</a>== 
+
+ ==<a href="http://code.google.com/p/sariac/downloads/detail?name=src-sariac.tar.bz&can=2">Source Code</a>==
