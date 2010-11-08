@@ -12,22 +12,27 @@ This is a pre-alpha. Many features have not implemented yet. There are also many
 
 = Requirements =
 
- # Java Runtime Environment (JRE)
-Sun Java is preferred.  
+ # Java Runtime Environment (JRE). Sun Java is preferred.  
  # aria2 installed in system as dependency.
 To install aria2,
-*Ubuntu/Debian,
+ * Ubuntu/Debian,
+
 {{{sudo apt-get install aria2}}}
-*Opensuse,
+
+ * Opensuse,
+
 {{{sudo zypper in aria2}}}
-*For other linux distros follow providers instruction.
+
+ * For other linux distros follow providers instruction.
  
-==NB== Now Sariac only supports Linux, It will support other OS(s) in the Final Release
+== Note ==
+Now Sariac only supports Linux, It will support other OS(s) in the Final Release
+
 
 
 = Feedback =
 
-Please give your feedback in my email or by commenting in this page.
+Please give your feedback to my email or by commenting in this page.
 
 I am asking you to suggest anything from GUI to codebase. 
 
