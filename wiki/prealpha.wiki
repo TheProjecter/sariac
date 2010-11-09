@@ -36,7 +36,7 @@ Please give your feedback to my email or by commenting in this page.
 
 I am asking you to suggest anything from GUI to codebase. 
 
-If you are submitting a bug please include the log file which is situated in *.sariac/log* folder in your home directory.
+If you are submitting a bug please include the log file which will be found in *.sariac/log* folder in your home directory.
 
 = Download =
 
